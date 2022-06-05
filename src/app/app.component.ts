@@ -13,6 +13,7 @@ export class AppComponent {
   myForm: FormGroup;
 
   constructor(private formBuilder: FormBuilder) {
+    console.log(dataJson);
     this.myForm = this.formBuilder.group({
       // name: this.formBuilder.control('bird', { initialValueIsDefault: false }),
       // skills: this.formBuilder.array([this.newSkill()]),
