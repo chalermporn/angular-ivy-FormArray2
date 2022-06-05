@@ -1,7 +1,7 @@
 import { Component, VERSION } from '@angular/core';
 
 import { FormGroup, FormArray, FormBuilder } from '@angular/forms';
-
+import * as dataJson from '@mock/data.json';
 @Component({
   selector: 'my-app',
   templateUrl: './app.component.html',

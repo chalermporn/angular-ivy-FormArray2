@@ -1,0 +1,347 @@
+{
+  "eduSubLevel": "41",
+  "status": "Y",
+  "activeFlag": "Y",
+  "academicYear": "2565",
+  "regularYear": 4,
+  "numberSemester": 3,
+  "numberStudent": 200,
+  "enrolledStudent": 200,
+  "totalEducationFee": 24,
+  "tuitionFeeType": "02",
+  "facultyCode": "01000",
+  "facultyName": "xxxxx",
+  "subjectFieldHigherEduCode": "00024",
+  "subjectFieldHigherEduName": "การจัดการ",
+  "curriculumCode": "25626331100130-001",
+  "curriculumName": "aaaaaaaaa",
+  "courseTypeCode": "01",
+  "studyYears": [
+    {
+      "studySemesters": [
+        {
+          "semester": 1,
+          "relatedFee": 1,
+          "tuitionFee": 1
+        },
+        {
+          "semester": 2,
+          "relatedFee": 1,
+          "tuitionFee": 1
+        },
+        {
+          "semester": 3,
+          "relatedFee": 1,
+          "tuitionFee": 1
+        }
+      ],
+      "classYearCode": "Y1",
+      "classYearName": "ชั้นปีที่ 1"
+    },
+    {
+      "studySemesters": [
+        {
+          "semester": 1,
+          "relatedFee": 1,
+          "tuitionFee": 1
+        },
+        {
+          "semester": 2,
+          "relatedFee": 1,
+          "tuitionFee": 1
+        },
+        {
+          "semester": 3,
+          "relatedFee": 1,
+          "tuitionFee": 1
+        }
+      ],
+      "classYearCode": "Y2",
+      "classYearName": "ชั้นปีที่ 2"
+    },
+    {
+      "studySemesters": [
+        {
+          "semester": 1,
+          "relatedFee": 1,
+          "tuitionFee": 1
+        },
+        {
+          "semester": 2,
+          "relatedFee": 1,
+          "tuitionFee": 1
+        },
+        {
+          "semester": 3,
+          "relatedFee": 1,
+          "tuitionFee": 1
+        }
+      ],
+      "classYearCode": "Y3",
+      "classYearName": "ชั้นปีที่ 3"
+    },
+    {
+      "studySemesters": [
+        {
+          "semester": 1,
+          "relatedFee": 1,
+          "tuitionFee": 1
+        },
+        {
+          "semester": 2,
+          "relatedFee": 1,
+          "tuitionFee": 1
+        },
+        {
+          "semester": 3,
+          "relatedFee": 1,
+          "tuitionFee": 1
+        }
+      ],
+      "classYearCode": "Y4",
+      "classYearName": "ชั้นปีที่ 4"
+    }
+  ],
+
+  "courseType": [
+    {
+      "eduSubLevel": "41",
+      "status": "Y",
+      "activeFlag": "Y",
+      "academicYear": "2565",
+      "regularYear": 4,
+      "numberSemester": 3,
+      "numberStudent": 200,
+      "enrolledStudent": 200,
+      "totalEducationFee": 24,
+      "tuitionFeeType": "02",
+      "facultyCode": "01000",
+      "facultyName": "xxxxx",
+      "subjectFieldHigherEduCode": "00024",
+      "subjectFieldHigherEduName": "การจัดการ",
+      "curriculumCode": "25626331100130-001",
+      "curriculumName": "aaaaaaaaa",
+      "courseTypeCode": "01",
+      "studyYears": [
+        {
+          "studySemesters": [
+            {
+              "semester": 1,
+              "relatedFee": 1,
+              "tuitionFee": 1
+            },
+            {
+              "semester": 2,
+              "relatedFee": 1,
+              "tuitionFee": 1
+            },
+            {
+              "semester": 3,
+              "relatedFee": 1,
+              "tuitionFee": 1
+            }
+          ],
+          "classYearCode": "Y1",
+          "classYearName": "ชั้นปีที่ 1"
+        },
+        {
+          "studySemesters": [
+            {
+              "semester": 1,
+              "relatedFee": 1,
+              "tuitionFee": 1
+            },
+            {
+              "semester": 2,
+              "relatedFee": 1,
+              "tuitionFee": 1
+            },
+            {
+              "semester": 3,
+              "relatedFee": 1,
+              "tuitionFee": 1
+            }
+          ],
+          "classYearCode": "Y2",
+          "classYearName": "ชั้นปีที่ 2"
+        },
+        {
+          "studySemesters": [
+            {
+              "semester": 1,
+              "relatedFee": 1,
+              "tuitionFee": 1
+            },
+            {
+              "semester": 2,
+              "relatedFee": 1,
+              "tuitionFee": 1
+            },
+            {
+              "semester": 3,
+              "relatedFee": 1,
+              "tuitionFee": 1
+            }
+          ],
+          "classYearCode": "Y3",
+          "classYearName": "ชั้นปีที่ 3"
+        },
+        {
+          "studySemesters": [
+            {
+              "semester": 1,
+              "relatedFee": 1,
+              "tuitionFee": 1
+            },
+            {
+              "semester": 2,
+              "relatedFee": 1,
+              "tuitionFee": 1
+            },
+            {
+              "semester": 3,
+              "relatedFee": 1,
+              "tuitionFee": 1
+            }
+          ],
+          "classYearCode": "Y4",
+          "classYearName": "ชั้นปีที่ 4"
+        }
+      ]
+    },
+    {
+      "eduSubLevel": "41",
+      "status": "Y",
+      "activeFlag": "Y",
+      "academicYear": "2565",
+      "regularYear": 4,
+      "numberSemester": 3,
+      "numberStudent": 200,
+      "enrolledStudent": 200,
+      "totalEducationFee": 24,
+      "tuitionFeeType": "02",
+      "facultyCode": "01000",
+      "facultyName": "xxxxx",
+      "subjectFieldHigherEduCode": "00024",
+      "subjectFieldHigherEduName": "การจัดการ",
+      "curriculumCode": "25626331100130-001",
+      "curriculumName": "aaaaaaaaa",
+      "courseTypeCode": "02",
+      "studyYears": [
+        {
+          "studySemesters": [
+            {
+              "semester": 1,
+              "relatedFee": 1,
+              "tuitionFee": 1
+            },
+            {
+              "semester": 2,
+              "relatedFee": 1,
+              "tuitionFee": 1
+            },
+            {
+              "semester": 3,
+              "relatedFee": 1,
+              "tuitionFee": 1
+            }
+          ],
+          "classYearCode": "Y1",
+          "classYearName": "ชั้นปีที่ 1"
+        },
+        {
+          "studySemesters": [
+            {
+              "semester": 1,
+              "relatedFee": 1,
+              "tuitionFee": 1
+            },
+            {
+              "semester": 2,
+              "relatedFee": 1,
+              "tuitionFee": 1
+            },
+            {
+              "semester": 3,
+              "relatedFee": 1,
+              "tuitionFee": 1
+            }
+          ],
+          "classYearCode": "Y2",
+          "classYearName": "ชั้นปีที่ 2"
+        },
+        {
+          "studySemesters": [
+            {
+              "semester": 1,
+              "relatedFee": 1,
+              "tuitionFee": 1
+            },
+            {
+              "semester": 2,
+              "relatedFee": 1,
+              "tuitionFee": 1
+            },
+            {
+              "semester": 3,
+              "relatedFee": 1,
+              "tuitionFee": 1
+            }
+          ],
+          "classYearCode": "Y3",
+          "classYearName": "ชั้นปีที่ 3"
+        },
+        {
+          "studySemesters": [
+            {
+              "semester": 1,
+              "relatedFee": 1,
+              "tuitionFee": 1
+            },
+            {
+              "semester": 2,
+              "relatedFee": 1,
+              "tuitionFee": 1
+            },
+            {
+              "semester": 3,
+              "relatedFee": 1,
+              "tuitionFee": 1
+            }
+          ],
+          "classYearCode": "Y4",
+          "classYearName": "ชั้นปีที่ 4"
+        }
+      ]
+    }
+  ],
+  "approvalHistory": [
+    {
+      "submitDate": "2022-05-31 12:12:43",
+      "submitAction": "SUBMIT",
+      "submitActionName": "ยืนยัน",
+      "createdBy": "5246613723150",
+      "createdByName": "นายพิชชาภา ศรีฤกษ์",
+      "roleName": "ผู้ทำรายการสถานศึกษา",
+      "createdDate": "2022-05-31 12:12:43"
+    },
+    {
+      "submitDate": "2022-05-19 15:46:47",
+      "submitAction": "SUBMIT",
+      "submitActionName": "ยืนยัน",
+      "createdBy": "5246613723150",
+      "createdByName": "นายพิชชาภา ศรีฤกษ์",
+      "roleName": "ผู้ทำรายการสถานศึกษา",
+      "createdDate": "2022-05-19 15:46:47"
+    },
+    {
+      "submitDate": "2022-05-19 15:44:13",
+      "submitAction": "SUBMIT",
+      "submitActionName": "ยืนยัน",
+      "createdBy": "5246613723150",
+      "createdByName": "นายพิชชาภา ศรีฤกษ์",
+      "roleName": "ผู้ทำรายการสถานศึกษา",
+      "createdDate": "2022-05-19 15:44:13"
+    }
+  ]
+}
